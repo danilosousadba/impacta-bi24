@@ -1,0 +1,2 @@
+nome,ra,grupo
+Livia Souza, 2102220, BI24
