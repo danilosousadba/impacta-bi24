@@ -1,0 +1,2 @@
+nome,ra,grupo
+Fernando_Lopo,2102245,1
