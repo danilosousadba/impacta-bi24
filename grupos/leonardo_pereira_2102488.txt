@@ -1,0 +1,2 @@
+nome,ra,grupo
+Leonardo Pereira,2102488,BI24
