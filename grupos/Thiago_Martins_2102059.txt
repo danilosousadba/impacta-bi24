@@ -1,0 +1,2 @@
+nome,ra,gropo
+thiago martins,2102059,BI24
