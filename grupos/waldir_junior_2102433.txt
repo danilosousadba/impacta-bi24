@@ -1,0 +1,2 @@
+nome,ra,grupo
+waldir junior,2102433,bi24
