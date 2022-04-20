@@ -1,0 +1,2 @@
+nome,ra,grupo
+thiago faravallo florencio,2102817,grupo bi 24
