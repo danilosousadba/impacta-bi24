@@ -1,0 +1,2 @@
+  nome,ra,grupo
+  Mauricio 2102930 BI24
