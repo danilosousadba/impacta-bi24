@@ -1,4 +1,4 @@
-# impacta-bi22-23
+# impacta-bi24
 
 ## Exercício 01 - Individual
 
