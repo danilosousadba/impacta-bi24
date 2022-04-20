@@ -1,0 +1,2 @@
+nome,ra,grupo
+danilo sousa,00000,BI24
