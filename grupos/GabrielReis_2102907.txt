@@ -1,1 +1,2 @@
-
+nome,ra,grupo
+Gabriel reis 2102907
