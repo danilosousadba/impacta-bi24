@@ -1,1 +1,2 @@
-edmilson_2102906_BI24.txt
+nome,ra,grupo
+edmilson,2102906,BI24.txt
