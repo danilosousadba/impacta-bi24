@@ -1,0 +1,2 @@
+nome,ra,grupo
+Thayane Moreira, 2103006, bi24
